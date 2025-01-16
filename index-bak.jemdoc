@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: nofooter
+# jemdoc: addcss{jemdoc.css}
+# jemdoc: addcss{bibtex.css}
+
+= Le Yang
+~~~
+{}{img_left}{image.jpg}{Image}{350}
+Ph.D. Student\n
+[https://ise.usc.edu Department of Industrial & Systems Engineering]\n
+[https://viterbischool.usc.edu Viterbi School of Engineering]\n
+[https://www.usc.edu University of Southern California]\n
+~~~
+
+== Biography
+Le is a Research Fellow in the Department of Electrical and Computer Engineering (ECE) at National University of Singapore, advised by Prof. Vincent Y. F. Tan and Prof. Wang Chi Cheung. Her research interests include Multi-Armed Bandit, Simulation and Optimization, and Reinforcement Learning.
+== Contact
+*Email*: le_yang@nus.edu.sg\n
+*Web*: [https://shaoninghan.github.io]\n 
+*Office*: 340 Olin Hall, 3650 McClintock Avenue, Los Angeles, CA 90089
+
+== Publication
+#includeraw{pubList.html}
